@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AnanyaVAdiga
+- 👀 I’m interested in Data analytics,Data Science
+- 🌱 I’m currently learning Python, Data analysis 
+- 📫 Reach me at ananyaadiga767@gmail.com
