@@ -1,5 +1,5 @@
 # Hi, I'm Ananya V Adiga! 👋  
-🚀 AI Engineer | Machine Learning | NLP | Computer Vision | AI in Healthcare  
+🚀 AI Engineer | Machine Learning | NLP | Computer Vision | Deep Learning 
 
 🔍 Passionate about **AI-driven solutions** with expertise in **Machine Learning, NLP, and Deep Learning**.  
 I build **intelligent systems for AI-based diagnosis, recommendation systems, and cybersecurity.**  
@@ -12,9 +12,9 @@ I build **intelligent systems for AI-based diagnosis, recommendation systems, an
 
 ## 📌 Notable Projects  
 🔹 **[DermaAI - Smart Skincare Recommendation](https://github.com/AnanyaVAdiga/dermaAI)** (Computer Vision, AI)  
-🔹 **[Disease Diagnosis AI Bot](https://github.com/AnanyaVAdiga/disease-diagnosis-bot)** (NLP, AI in Healthcare)  
-🔹 **[AI-Powered Resume Parser](https://github.com/AnanyaVAdiga/resume-parsing)** (NLP, Information Extraction)  
-🔹 **[Diabetic Retinopathy Detection](https://github.com/AnanyaVAdiga/diabetic-retinopathy)** (Deep Learning, Medical AI)  
+🔹 **[Disease Diagnosis AI Bot](https://github.com/AnanyaVAdiga/Disease_diagnosis_bot)** (NLP, AI in Healthcare)  
+🔹 **[Cybersecurity Content Flagging System](https://github.com/AnanyaVAdiga/Content_flagging-_system)** (NLP, Threat Detection)   
+🔹 **[Diabetic Retinopathy Detection](https://github.com/AnanyaVAdiga/Diabetic-retinopathy-evaluation)** (Deep Learning, Medical AI)  
 
 ## ⚙️ Tech Stack  
 - **Programming Languages:** Python, SQL  
